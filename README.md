@@ -21,7 +21,7 @@ DOM,React
 ![homepage](https://github.com/sejalanan/naukari.com/assets/143008101/cce35859-34ce-443b-b533-92c41220e748)
 
 ![LOGIN](https://github.com/sejalanan/naukari.com/assets/143008101/a4d87c90-a062-4b8b-bd1a-e7188822e341)
-![Screenshot 2023-11-16 141523(https://github.com/sejalanan/naukari.com/assets/143008101/dab843a
+![Screenshot 2023-11-16 141523(https://github.com/sejalanan/naukari.com/assets/143008101/dab843a6-f45e-457e-953a-4189258ae6d3)
 ![Register page](https://github.com/sejalanan/naukari.com/assets/143008101/5d71efa9-7cdd-4b8f-bffe-513df2e7dab9)
-6-f45e-457e-953a-4189258ae6d3)
+
 
