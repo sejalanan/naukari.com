@@ -25,3 +25,4 @@ DOM,React
 ![Register page](https://github.com/sejalanan/naukari.com/assets/143008101/5d71efa9-7cdd-4b8f-bffe-513df2e7dab9)
 
 
+![Screenshot 2023-11-16 141523](https://github.com/sejalanan/naukari.com/assets/143008101/06f8ddee-66da-4e6c-93c7-7e4ea0003bba)
