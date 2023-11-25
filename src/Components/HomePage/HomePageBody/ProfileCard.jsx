@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./ProfileCard.module.css";
 import { Avatar, Progress } from "@chakra-ui/react";
-
+// eslint-disable-next-line 
 const ProfileCard = () => {
   let userName = JSON.parse(localStorage.getItem("nameUser"));
 
@@ -52,6 +52,7 @@ const ProfileCard = () => {
       </div>
       <div className={styles.lastDiv}>
         <span>
+        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
           <a href="#">
             3X Boost to Your Profile Performance. Explore.
             <span> Paid Service</span>

@@ -9,8 +9,8 @@ import {
   import React from "react";
   import { useSelector } from "react-redux";
   import DesktopSubNav from "./DesktopSubNav";
-  
   const MyNaukri = () => {
+	  // eslint-disable-next-line no-unused-vars
 	const { isAuth } = useSelector((state) => state.login);
 	const myNaukri = [
 	  {
